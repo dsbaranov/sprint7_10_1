@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "sprint7_10_1.exe"
-		},
-		{
-			"path" : "sprint7_10_1.pdb"
+			"path" : "sprint7_10_1"
 		}
 	],
 	"backtrace" : 1,
@@ -81,18 +78,14 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
+				"fragment" : "-rdynamic",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "sprint7_10_1",
-	"nameOnDisk" : "sprint7_10_1.exe",
+	"nameOnDisk" : "sprint7_10_1",
 	"paths" : 
 	{
 		"build" : ".",

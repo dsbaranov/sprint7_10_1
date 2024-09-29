@@ -1,8 +1,7 @@
 [
 {
-  "directory": "C:/Users/baranov_d/Documents/yandex/sprint7/sprint7_10_1/build",
-  "command": "C:\\Software\\msys64\\mingw64\\bin\\g++.exe -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\sprint7_10_1.dir\\main.cpp.obj -c C:\\Users\\baranov_d\\Documents\\yandex\\sprint7\\sprint7_10_1\\main.cpp",
-  "file": "C:\\Users\\baranov_d\\Documents\\yandex\\sprint7\\sprint7_10_1\\main.cpp",
-  "output": "CMakeFiles\\sprint7_10_1.dir\\main.cpp.obj"
+  "directory": "/home/marhur/Documents/yandex/sprint_7/sprint7_10_1/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/sprint7_10_1.dir/main.cpp.o -c /home/marhur/Documents/yandex/sprint_7/sprint7_10_1/main.cpp",
+  "file": "/home/marhur/Documents/yandex/sprint_7/sprint7_10_1/main.cpp"
 }
 ]

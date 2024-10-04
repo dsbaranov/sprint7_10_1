@@ -2,7 +2,7 @@ CMakeFiles/sprint7_10_1.dir/main.cpp.o: \
  /home/marhur/Documents/yandex/sprint_7/sprint7_10_1/main.cpp \
  /usr/include/stdc-predef.h \
  /home/marhur/Documents/yandex/sprint_7/sprint7_10_1/simple_vector.h \
- /usr/include/c++/11/cassert \
+ /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -13,11 +13,11 @@ CMakeFiles/sprint7_10_1.dir/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h \
- /usr/include/c++/11/pstl/pstl_config.h /usr/include/assert.h \
- /usr/include/c++/11/initializer_list /usr/include/c++/11/algorithm \
- /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
+ /usr/include/c++/11/pstl/pstl_config.h \
+ /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/stl_pair.h /usr/include/c++/11/bits/move.h \
- /usr/include/c++/11/type_traits /usr/include/c++/11/bits/stl_algobase.h \
+ /usr/include/c++/11/type_traits /usr/include/c++/11/initializer_list \
+ /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/c++/11/bits/functexcept.h \
  /usr/include/c++/11/bits/exception_defines.h \
  /usr/include/c++/11/bits/cpp_type_traits.h \
@@ -101,6 +101,7 @@ CMakeFiles/sprint7_10_1.dir/main.cpp.o: \
  /usr/include/c++/11/bits/vector.tcc \
  /usr/include/c++/11/pstl/execution_defs.h \
  /home/marhur/Documents/yandex/sprint_7/sprint7_10_1/array_ptr.h \
+ /usr/include/c++/11/cassert /usr/include/assert.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
  /usr/include/c++/11/ios /usr/include/c++/11/iosfwd \
  /usr/include/c++/11/bits/stringfwd.h /usr/include/c++/11/bits/postypes.h \
@@ -171,5 +172,4 @@ CMakeFiles/sprint7_10_1.dir/main.cpp.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc \
- /home/marhur/Documents/yandex/sprint_7/sprint7_10_1/tests.h
+ /usr/include/c++/11/bits/istream.tcc
